@@ -2,7 +2,7 @@
 
 == インストール
 
- % ./script/plugin install git://github.com/elm200/date_helper_ja.git
+ % ./script/plugin install git://github.com/elm200/date_helper_ja.git -r 'tag 1.2.6'
 
 == 和暦への対応
 
