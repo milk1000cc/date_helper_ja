@@ -1,4 +1,4 @@
-= DateHelperJa プラグイン(Rails 2.2.2用)
+= DateHelperJa プラグイン(Rails 2.1.2用)
 
 == インストール
 
@@ -8,6 +8,6 @@
 
  % ./script/plugin install git://github.com/elm200/date_helper_ja.git -r 'tag x.x.x' (x.x.x は対応する Rails のバージョン番号)
 
-== 和暦への対応
+== 和暦への対応 (未対応)
 
 f.date_select :date_of_birth, :use_era_name => true
